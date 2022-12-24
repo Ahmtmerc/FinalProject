@@ -1,0 +1,7 @@
+﻿1 hiçbir model ve entity nesneniz çıplak kalmamalı 
+2 db nesnesi controllerda newlenmez uow ve repo yapınızı güncellemek lazım. 
+UOW yapısı içerisinde otomatikmen db nesnesinin instance nı alacak şekilde geliştirilmesi lazım.
+Next Steps ---- Ayrı bir Uı projesi oluşturulacak. Sadece UI model ve business katmanı olsa yeterli.
+Business dan direk api ye istek atip gelen sonucu ui da gösterirsiniz
+
+
